@@ -31,3 +31,24 @@ You can click the Preview link to take a look at your changes.
 ![Node](https://img.shields.io/badge/-Node-0096FF?style=flat-square&logo=nodejs&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-E1C16E?style=flat-square&logo=express&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+## 🤓 GitHub
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmalap05&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<details>
+  <summary><b>🏆 GitHub Trophies</b></summary>
+  <br />
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=kmalap05&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" />
+  </p>
+</details>
+
+<details>
+  <summary><b>📈 GitHub Streaks</b></summary>
+  <br />
+  <p align="center">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=raghavguptaa&theme=dark&hide_border=true&background=0D1117&stroke=0000&count_private=true&include_all_commits=true" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=kmalap05&count_private=true&hide_border=true&bg_color=0d1117&theme=github" />
+  </p>
+</details>
