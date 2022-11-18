@@ -1,14 +1,4 @@
-- 👋 Hi, I’m @kmalap05
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-kmalap05/kmalap05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+# Hi there 👋
 
 <p align="center">
   <a href="mailto:kedarmalap456@gmail.com" target="_blank"><img height="25" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -34,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 🤓 GitHub
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmalap05&layout=compact)](https://github.com/kmalap05/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmalap05&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
   <summary><b>🏆 GitHub Trophies</b></summary>
