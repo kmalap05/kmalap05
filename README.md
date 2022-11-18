@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 🤓 GitHub
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmalap05&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmalap05&layout=compact)](https://github.com/kmalap05/github-readme-stats)
 
 <details>
   <summary><b>🏆 GitHub Trophies</b></summary>
