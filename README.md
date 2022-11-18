@@ -28,6 +28,6 @@ You can click the Preview link to take a look at your changes.
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![React](https://img.shields.io/badge/-ReactJs-1572B6?style=flat-square&logo=react&logoColor=white)
-![Node](https://img.shields.io/badge/-NodeJs-0096FF?style=flat-square&logo=node&logoColor=white)
+![Node](https://img.shields.io/badge/-NodeJs-0096FF?style=flat-square&logo=nodejs&logoColor=white)
 ![Express](https://img.shields.io/badge/-ExpressJs-FFBF00?style=flat-square&logo=express&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
