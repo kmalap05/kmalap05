@@ -5,7 +5,7 @@ MERN Stack Developer
 --------------------
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [kedarmalap456@gmail.com](mailto:kedarmalap456@gmail.com)
+* ✉️  You can contact me at [business.kmofficial@gmail.com](mailto:business.kmofficial@gmail.com)
 * 🧠  I'm learning Advanced MERN Stack Concepts
 * 🤝  I'm open to collaborating on Full Stack Web Development (MERN)
 
