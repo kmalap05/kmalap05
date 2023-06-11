@@ -5,12 +5,12 @@ MERN Stack Developer
 --------------------
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [business.kmofficial@gmail.com](mailto:business.kmofficial@gmail.com)
+* ✉️  You can contact me at [corporate.kmofficial@gmail.com](mailto:corporate.kmofficial@gmail.com)
 * 🧠  I'm learning Advanced MERN Stack Concepts
 * 🤝  I'm open to collaborating on Full Stack Web Development (MERN)
 
-<a href="https://www.github.com/kmalap05" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/kmalap05?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/kmalap06" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/kmalap06?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
@@ -29,24 +29,24 @@ src="https://img.shields.io/github/followers/kmalap05?logo=github&style=for-the-
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/kmalap05" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kedarmalap" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/KedarMalap" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/kmalap06" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kedarmalap" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/KedarMalap" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/kmalap05"><img src="https://github-readme-stats.vercel.app/api?username=kmalap05&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kmalap05's GitHub stats" /></a>
+<a href="http://www.github.com/kmalap06"><img src="https://github-readme-stats.vercel.app/api?username=kmalap06&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kmalap06's GitHub stats" /></a>
 
-<a href="http://www.github.com/kmalap05"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kmalap05&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/kmalap06"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kmalap06&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/kmalap05"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=kmalap05&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/kmalap06"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=kmalap06&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/kmalap05" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmalap05&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/kmalap06" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmalap06&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/kmalap05/Node-Js-Authentication-API" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kmalap05&repo=Node-Js-Authentication-API&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/kmalap05/Amigo-Frontend" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kmalap05&repo=Amigo-Frontend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/kmalap06/Node-Js-Authentication-API" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kmalap06&repo=Node-Js-Authentication-API&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/kmalap06/Amigo-Frontend" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kmalap06&repo=Amigo-Frontend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/kmalap05/Amigo-Backend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kmalap05&repo=Amigo-Backend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/kmalap05/Python-Beginner-Projects" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kmalap05&repo=Python-Beginner-Projects&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/kmalap06/Amigo-Backend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kmalap06&repo=Amigo-Backend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/kmalap06/Python-Beginner-Projects" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kmalap06&repo=Python-Beginner-Projects&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
