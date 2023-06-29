@@ -1,8 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on E-Commerce Project.<br>👯 I’m looking to collaborate on Open Source Projects.<br>🤝 I’m looking for help with DSA and competitive coding.<br>🌱 I’m currently learning frontend development.<br>💬 Ask me about software development.
 
-# Portfolio: 
-![Kedar Malap Portfolio](https://kedarmalap-portfolio.vercel.app/)
+# Portfolio: https://kedarmalap-portfolio.vercel.app/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kedarmalap) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/KedarMalap)]
