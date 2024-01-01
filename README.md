@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **TypeScript, Next.js, Appwrite, Redis**
 
-- 👨‍💻 All of my projects are available at [https://kedarmalap.vercel.app](https://kedarmalap.vercel.app)
+- 👨‍💻 All of my projects are available at [Portfolio](https://kedarmalap.vercel.app)
 
 - 💬 Ask me about **JavaScript, React.js, Node.js, MongoDB**
 
 - 📫 How to reach me **kedar.malap.06@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sGv8-DtdY5b-JyIwzmVpa9UO7D4RFYe9/view?usp=sharing](https://drive.google.com/file/d/1sGv8-DtdY5b-JyIwzmVpa9UO7D4RFYe9/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sGv8-DtdY5b-JyIwzmVpa9UO7D4RFYe9/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
